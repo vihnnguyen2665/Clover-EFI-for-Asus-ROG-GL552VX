@@ -6,9 +6,7 @@ Base on https://github.com/xuanquydsr/Gl552VX-Mojave
 
 # Use Hotpatch
 # Working:
-- Wifi, Bluetooth (BCM94352Z DW1560)
-OR
-- Wifi, Bluetooth (AC8260 using https://openintelwireless.github.io/)
+- Wifi, Bluetooth (BCM94352Z DW1560) OR Wifi, Bluetooth (AC8260 using https://openintelwireless.github.io/)
 
 
 - Card Reader
@@ -33,7 +31,9 @@ OR
 
 Wifi + airDrop + Bluetooth: Remove kext IntelBluetoothFirmware.kext, IntelBluetoothInjector.kext, itlwm.kext
 https://www.tonymacx86.com/threads/broadcom-wifi-bluetooth-guide.242423/
+
 OR 
+
 Wifi  + Bluetooth:
 https://openintelwireless.github.io/
 
